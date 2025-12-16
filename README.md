@@ -15,7 +15,6 @@ To analyze the effect of cost and time on sampling decisions
 To visualize the design of the experiment
 
 **Theoretical Background**
-Stratified Sampling
 
 Stratified sampling is a probability sampling method where the population is divided into homogeneous subgroups called strata. Samples are selected independently from each stratum.
 
@@ -53,7 +52,7 @@ View sample allocation results
 
 Visualize experimental design interactively
 
-**** Learning Outcomes****
+****Learning Outcomes****
 
 Understanding of stratified sampling methodology
 
