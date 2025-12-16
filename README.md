@@ -1,0 +1,2 @@
+# Determination-of-Sample-Size-for-Estimating-Population-Mean-under-Stratified-Sampling-using-R-Shiny
+This project demonstrates the estimation of total sample size and allocation of samples across strata for estimating a population mean using stratified random sampling.  The implementation is done using an interactive R Shiny application, allowing users to input stratum-wise parameters and instantly view sample allocation under different methods.
